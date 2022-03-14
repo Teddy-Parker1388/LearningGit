@@ -1,2 +1,2 @@
 # LearningGit
-## I LOVE DevOps and Software Development
+## Development is wonderful
