@@ -1,2 +1,2 @@
 # LearningGit
-## I LOVE DevOps and Software Development
+## I am taking control over my career by getting into DevOps
